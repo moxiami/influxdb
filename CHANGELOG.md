@@ -9,6 +9,7 @@
 ### Features
 
 - [#8426](https://github.com/influxdata/influxdb/issues/8426): Add `parse-multivalue-plugin` to allow users to choose how multivalue plugins should be handled by the collectd service.
+- [#8525](https://github.com/influxdata/influxdb/issues/8525): Support http pipelining for /query endpoint.
 
 ### Bugfixes
 
